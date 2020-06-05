@@ -36,7 +36,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="開始遊戲"
-        android:textSize="24sp"
+        android:textSize="25sp"
         app:layout_constraintBottom_toTopOf="@+id/gl2"
         app:layout_constraintEnd_toStartOf="@+id/btnEnd"
         app:layout_constraintHorizontal_chainStyle="packed"
@@ -48,7 +48,7 @@
         android:layout_height="wrap_content"
         android:onClick="EndApp"
         android:text="結束系統"
-        android:textSize="24sp"
+        android:textSize="25sp"
         app:layout_constraintBottom_toTopOf="@+id/gl2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/btnStart" />
